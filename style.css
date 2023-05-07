@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: lightblue;
+    padding:50px;
+}
+.wrapper {
+    background-color: aliceblue;
+    width:640px;
+    margin:50px auto;
+    
+}
+.wrapper .content-box{
+    background-color: #fff;
+    padding:30px;
+}
+.wrapper h2{
+    margin:0px;
+    font-family: 'Segoe UI';
+    font-size: 30px;
+}
+.wrapper h4{
+    margin:8px 0;
+    font-size: 22px;
+    font-family: 'Segoe UI';
+}
+.wrapper p{
+    margin:8px 0;
+    font-size: 18px;
+    font-family: 'Segoe UI';
+    line-height: 30px;
+}
